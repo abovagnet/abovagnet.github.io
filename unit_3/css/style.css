@@ -1,0 +1,32 @@
+body {
+	color: white;
+	background: #4e78a1;
+	font-family: helvetica, arial, sans-serif;
+	font-size: 20px;
+	background-image: url('../images/analyze_to_optimize.jpeg');
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+header {
+	background-color: 104591;
+	padding: 20px;
+	font-weight: bold;
+
+}
+
+p {
+	font-weight: bold;
+}
+		
+#slogan {
+	font-style: italic;
+}
+
+.underline {
+	text-decoration: underline;
+}
+
+img {
+	width: 50%;
+}
